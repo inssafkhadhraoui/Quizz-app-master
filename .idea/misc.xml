@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/drawable/btnmat.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_agiles_q2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_agiles_q3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_algo_programmation.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_bd.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_cgenerale_q2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_cgenerale_q3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_marketing_q2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_marketing_q3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_programmation_q2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_programmation_q3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_quiz.xml" value="0.33" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_score_final.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_systemes_informations.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/activity_tic.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/taieb/AndroidStudioProjects/MyQuizApplication/app/src/main/res/layout/btnmatiere.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
